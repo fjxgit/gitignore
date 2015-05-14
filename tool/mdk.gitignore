@@ -2,7 +2,7 @@
 *.OPT
 *.UVGUI*
 *.UVGUIX*
-*.UVMPW
+#*.UVMPW
 #*.UVPROJ
 #*.UVPROJX
 *.UVOPT
