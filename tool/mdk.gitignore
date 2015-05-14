@@ -3,11 +3,11 @@
 *.UVGUI*
 *.UVGUIX*
 *.UVMPW
-*.UVPROJ
-*.UVPROJX
+#*.UVPROJ
+#*.UVPROJX
 *.UVOPT
 *.UVOPTX
-*.UV2
+#*.UV2
 
 
 #Listing Files
@@ -51,6 +51,7 @@
 *.LIN
 *.LNP
 *.ORC
+
 *.PACK
 *.PDSC
 *.PLG
@@ -68,4 +69,16 @@ PROJECT_PROJ.XSD
 *.SVD
 *.XML
 *.XSD
+*.DNI
+*.BAT
+*.
+*.WSD
 
+
+
+##
+*~
+*.TMP
+JLINK*
+*.jlink
+*.bak
